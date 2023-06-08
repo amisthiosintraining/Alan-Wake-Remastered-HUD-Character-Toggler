@@ -17,7 +17,7 @@ Installation
 1. <a href="http://reshade.me/">Download</a> and install ReShade with full add-on support.
 2. After you have installed ReShade, download and unzip <a href="https://github.com/FransBouma/ShaderToggler/releases/tag/1.0.1">Shader Toggler</a>.
 3. Copy and paste ShaderToggler.addon where your game is installed (Game_f_x64_EOS.exe). This is the same place where ReShade should be installed too.
-4. Lastely, copy and paste `ShaderToggler.ini` where your game folder is, `Game_f_x64_EOS.exe`.
+4. Lastly, copy and paste `ShaderToggler.ini` where your game folder is, `Game_f_x64_EOS.exe`.
 5. Once you have done that, boot the game and use CAPS LOCK to toggle HUD and character.
 
 `[Drive]:\Epic Games\AlanWakeRemastered`
