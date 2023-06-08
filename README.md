@@ -2,8 +2,8 @@
 An advanced HUD and invisible character toggler for Alan Wake Remastered. 
 
 #### Current Issues
-- Alan Wake is invisible but does leaves behind some invsible shape of some sort.
-- Making Alan Wake invisible does make other interative objects invisible too (npcs, vehicles, doors, manuscripts, etc.)
+- Alan Wake is invisible but leaves behind an invsible shape of some sort.
+- Making Alan Wake invisible makes other interative objects invisible too (npcs, vehicles, doors, manuscripts, etc.)
 - Yes, I'm aware that the flashlight does not disappear, that's because if I do big portions of the environmental set up disappears with it.
 
 Requirements
