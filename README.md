@@ -3,7 +3,7 @@ An advanced HUD and invisible character toggler for Alan Wake Remastered.
 
 <img src="https://imgur.com/yvqfAAr.png">
 
-Photo Examples
+Photo Samples
 ------
 <img src="https://imgur.com/F4g1mPl.png" width="220"> <img src="https://imgur.com/mrYKRwI.png" width="220"> <img src="https://imgur.com/NjMQueh.png" width="220"> <img src="https://imgur.com/lQ1Cf1m.png" width="220"> 
 <img src="https://imgur.com/SRMedgv.png" width="220"> <img src="https://imgur.com/z1UiAhs.png" width="220"> <img src="https://imgur.com/JAY3aWC.png" width="220"> <img src="https://imgur.com/QmhvBLh.png" width="220"> 
